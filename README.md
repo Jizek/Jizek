@@ -51,8 +51,7 @@
 │   > os          :  Kali Linux + Windows                      │
 │   > status      :  [ root@localhost ]~# _                    │
 │                                                              │
-│   "I'm only uncertain about things worth being              │
-│    uncertain about."  — Elliot Alderson                      │
+│                       │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
