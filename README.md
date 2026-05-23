@@ -4,7 +4,7 @@
 
 <!-- 🔴 HELLO FRIEND BANNER -->
 <div align="center">
- <img width="100%" src="https://i.pinimg.com/1200x/f4/48/a4/f448a4e955f93fcad15ec166874cd21a.jpg" alt="hello, friend." />
+  <img width="50%" src="https://i.pinimg.com/1200x/f4/48/a4/f448a4e955f93fcad15ec166874cd21a.jpg" alt="hello, friend." />
 </div>
 
 <br>
