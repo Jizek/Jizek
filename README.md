@@ -4,17 +4,12 @@
 
 <!-- 🔴 HELLO FRIEND BANNER -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Jizek/Jizek/main/hello_friend.png" alt="hello, friend." />
+  <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/cyber-security.gif" alt="hello, friend." />
 </div>
 
 <br>
 
-<!-- 💬 THE QUOTE -->
-<div align="center">
 
-> ### *"The quieter you become, the more you are able to hear."*
-
-</div>
 
 <br>
 
@@ -58,7 +53,7 @@
 ║  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'                   ║
 ║                                                                                                                       ║
 ║                                                                                                                       ║
-║                    [ Security Researcher ]   [ Python Developer ]   [ Automation ]                                    ║
+║                                                       ║
 ║                                                                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
@@ -72,14 +67,14 @@
 │                                                              │
 │   $ cat /home/jizek/about.txt                                │
 │                                                              │
-│   > name        :  Jizek                                     │
+│   > name        :  Yusuf                                     │
 │   > role        :  Security Researcher / Python Dev          │
 │   > interests   :  OSINT, Automation, Exploitation           │
 │   > os          :  Kali Linux + Windows                      │
 │   > status      :  [ root@localhost ]~# _                    │
 │                                                              │
-│   "I'm only uncertain about things worth being               │
-│    uncertain about."  — Elliot Alderson                      │
+│                                                              │
+│                                                              │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
