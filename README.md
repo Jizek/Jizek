@@ -4,7 +4,7 @@
 
 <!-- 🔴 HELLO FRIEND BANNER (top image) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0000,100:000000&height=220&section=header&text=hello%2C%20friend.&fontSize=80&fontColor=cc0000&fontAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://www.pinterest.com/samanthacrandall/mr-robot//api?type=rect&color=0:000000,50:0a0000,100:000000&height=220&section=header&text=hello%2C%20friend.&fontSize=80&fontColor=cc0000&fontAlignY=55&animation=fadeIn" />
 </div>
 
 <br>
