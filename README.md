@@ -68,10 +68,10 @@
 │   $ cat /home/jizek/about.txt                                │
 │                                                              │
 │   > name        :  Yusuf                                     │
-│   > role        :  Security Researcher / Python Dev          │
+│   > role        :  Digital-Forensic                          │
 │   > interests   :  OSINT, Automation, Exploitation           │
-│   > os          :  Kali Linux + Windows                      │
-│   > status      :  [ root@localhost ]~# _                    │
+│   > os          :  linux                                     │
+│   > status      :  [ root@study    ]~# _                     │  
 │                                                              │
 │                                                              │
 │                                                              │
