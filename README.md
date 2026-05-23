@@ -212,10 +212,9 @@ class Jizek:
 
 <br>
 
----
+--- 
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ GOODBYE FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
-
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ GOODBYE FOOTER -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Jizek/Jizek/main/goodbye_friend.png" alt="goodbye, friend." />
+  <img src="https://i.pinimg.com/1200x/8d/58/a9/8d58a9d0b4b447dadcff60c11bbeef7c.jpg" width="100%" height="250" style="object-fit: cover;" alt="goodbye, friend." />
 </div>
