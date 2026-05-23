@@ -1,43 +1,55 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/cyber-security.gif" width="100%" alt="Cyber Security Header" />
+</p>
 
-<!-- Üst Banner -->
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jizek%20Security&fontSize=90&theme=dark)
+<h1 align="center">⚡ Jizek Security ⚡</h1>
 
-<!-- Ziyaretçi Sayacı -->
-<div align="center">
-  <img src="https://komarev.com/ghvc/?username=Jizek&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Jizek/count.svg" alt="Visitor Count" />
+</p>
 
-<br>
+---
 
-<!-- 🐍 EFSANE YILAN OYUNU ANIMASYONU 🐍 -->
 ## 🐍 Contribution Snake
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Jizek/Jizek/output/github-contribution-grid-snake-dark.svg" alt="Github Snake Game" />
-</div>
+</p>
 
-<br>
+<br />
 
-<!-- Yetenek Rozetleri (Siber & Yazılım) -->
 ## 🛠️ Cyber Security & Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="left">
+  <!-- İşletim Sistemleri & Kabuk -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <br />
+  <!-- Siber Güvenlik Araçları -->
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber_Security-E0115F?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-</div>
+  <br />
+  <!-- Diller & Geliştirme -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-<br>
+<br />
 
-<!-- Dinamik İstatistik Kartları -->
 ## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=radial&rank_icon=github&include_all_commits=true" alt="Jizek GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=radial&hide_border=false" alt="Top Langs" height="190" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jizek GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-<br>
+<br />
 
-<!-- Aktivite Grafiği -->
 ## 📈 Activity Trend
-[![Jizek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jizek&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jizek&theme=tokyonight" alt="Jizek's GitHub Activity Graph" />
+</p>
