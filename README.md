@@ -2,15 +2,19 @@
 <!--              Mr. Robot x Cyber — GitHub Profile README          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- 🔴 HELLO FRIEND BANNER (top image) -->
+<!-- 🔴 HELLO FRIEND BANNER -->
 <div align="center">
-  <img width="100%" src="https://www.pinterest.com/samanthacrandall/mr-robot//api?type=rect&color=0:000000,50:0a0000,100:000000&height=220&section=header&text=hello%2C%20friend.&fontSize=80&fontColor=cc0000&fontAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://raw.githubusercontent.com/Jizek/Jizek/main/hello_friend.png" alt="hello, friend." />
 </div>
 
 <br>
 
 <!-- 💬 THE QUOTE -->
+<div align="center">
 
+> ### *"The quieter you become, the more you are able to hear."*
+
+</div>
 
 <br>
 
@@ -39,18 +43,24 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║      ██╗██╗███████╗███████╗██╗  ██╗                              ║
-║      ██║╚══███╔╝██╔════╝██║ ██╔╝                                 ║
-║      ██║  ███╔╝ █████╗  █████╔╝                                  ║
-║      ██║ ███╔╝  ██╔══╝  ██╔═██╗                                  ║
-║      ██║███████╗███████╗██║  ██╗                                 ║
-║      ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝                                 ║
-║                                                                  ║
-║   [ Security Researcher ] [ Python Developer ] [ Automation ]    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                       ║
+║  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.                   ║
+║ | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |                  ║
+║ | |     _____    | || |     _____    | || |   ________   | || |  _________   | || |  ___  ____   | |                  ║
+║ | |    |_   _|   | || |    |_   _|   | || |  |  __   _|  | || | |_   ___  |  | || | |_  ||_  _|  | |                  ║
+║ | |      | |     | || |      | |     | || |  |_/  / /    | || |   | |_  \_|  | || |   | |_/ /    | |                  ║
+║ | |   _  | |     | || |      | |     | || |     .'.' _   | || |   |  _|  _   | || |   |  __'.    | |                  ║
+║ | |  | |_' |     | || |     _| |_    | || |   _/ /__/ |  | || |  _| |___/ |  | || |  _| |  \ \_  | |                  ║
+║ | |  `.___.'     | || |    |_____|   | || |  |________|  | || | |_________|  | || | |____||____| | |                  ║
+║ | |              | || |              | || |              | || |              | || |              | |                  ║
+║ | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |                  ║
+║  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'                   ║
+║                                                                                                                       ║
+║                                                                                                                       ║
+║                    [ Security Researcher ]   [ Python Developer ]   [ Automation ]                                    ║
+║                                                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
 </div>
@@ -96,7 +106,6 @@ class Jizek:
 
 ## 🛠️ TECH ARSENAL
 
-<!-- Languages -->
 **⚡ Languages**
 
 <div>
@@ -108,7 +117,6 @@ class Jizek:
 
 <br>
 
-<!-- Cyber Security -->
 **🛡️ Cyber Security**
 
 <div>
@@ -122,7 +130,6 @@ class Jizek:
 
 <br>
 
-<!-- Dev & Automation Tools -->
 **🔧 Dev & Automation Tools**
 
 <div>
@@ -215,5 +222,5 @@ class Jizek:
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ GOODBYE FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a0000,100:000000&height=200&section=footer&text=goodbye%2C%20friend.&fontSize=72&fontColor=cc0000&fontAlignY=55&animation=fadeIn" />
+  <img width="100%" src="https://raw.githubusercontent.com/Jizek/Jizek/main/goodbye_friend.png" alt="goodbye, friend." />
 </div>
