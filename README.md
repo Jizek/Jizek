@@ -14,11 +14,10 @@
 
 ### 👋 About Me
 
-I'm **Jizek**, a security-focused developer working on **OSINT, automation, and attack surface management tooling.**  
-Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** — a production-grade Attack Surface Management platform.
+I'm **Jizek**, a security-focused developer working on **OSINT, automation, and attack surface management tooling.**
 
-- 🔭 Currently working on: **Sentinel ASM** (ASM / Security Scanning Platform)
-- 🌱 Learning: Cloud security, PostgreSQL, distributed scanning architectures
+- 🔭 Currently working on: Security scanning & automation tools
+- 🌱 Learning: Cloud security, PostgreSQL, distributed systems
 - 💬 Ask me about: Python automation, OSINT techniques, web security testing
 - 📫 Reach me: [Telegram](https://t.me/Jizekk) · [Email](mailto:jizek@protonmail.com)
 
@@ -59,15 +58,15 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Jizek&theme=tokyonight&background=1a1b27&border=0e75b6&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Jizek&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -76,7 +75,7 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jizek&bg_color=1a1b27&color=00b4d8&line=0e75b6&point=c9d1d9&area=true&area_color=0e75b620&hide_border=false&border_color=0e75b6&custom_title=Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jizek&theme=tokyo-night&hide_border=true" />
 </div>
 
 <br>
@@ -90,7 +89,7 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=onedark&no-frame=true&column=7" />
 </div>
 
 ---
@@ -103,8 +102,4 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 [![Email](https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jizek@protonmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jizekk)
 
-</div>
-
-<div align="center">
-<sub>Building tools that matter.</sub>
 </div>
