@@ -1,220 +1,110 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              Mr. Robot x Cyber — GitHub Profile README          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- 🔴 HELLO FRIEND BANNER -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/f4/48/a4/f448a4e955f93fcad15ec166874cd21a.jpg" width="200%" height="420" style="object-fit: cover;" alt="hello, friend." />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=60&lines=Security+Researcher+%7C+Python+Developer;Building+tools+for+the+blue+team." alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Jizek&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Jizek?style=flat-square&color=0e75b6&labelColor=1a1a2e&label=FOLLOWERS" />
+
 </div>
-
-<br>
-
-
-
-<br>
-
-<!-- ⚡ TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=20&duration=2500&pause=1200&color=CC0000&center=true&vCenter=true&multiline=true&width=700&height=110&lines=%24+whoami+--verbose;%3E+Security+Researcher+%7C+Python+Dev+%7C+OSINT;%24+cat+%2Fetc%2Fmotd;%3E+%22Control+is+an+illusion.%22" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- 👁️ VISITOR BADGES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jizek&color=red&style=for-the-badge&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Jizek?style=for-the-badge&color=red&labelColor=0d0000&label=FOLLOWERS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ANONYMOUS-cc0000?style=for-the-badge&logo=tor-project&logoColor=white" />
-</div>
-
-<br>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░ ASCII JIZEK ░░░░░░░░░░░░░░░░░░░░░░░ -->
+### 👋 About Me
 
-<div align="center">
+I'm **Jizek**, a security-focused developer working on **OSINT, automation, and attack surface management tooling.**  
+Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** — a production-grade Attack Surface Management platform.
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                       ║
-║  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.                   ║
-║ | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |                  ║
-║ | |     _____    | || |     _____    | || |   ________   | || |  _________   | || |  ___  ____   | |                  ║
-║ | |    |_   _|   | || |    |_   _|   | || |  |  __   _|  | || | |_   ___  |  | || | |_  ||_  _|  | |                  ║
-║ | |      | |     | || |      | |     | || |  |_/  / /    | || |   | |_  \_|  | || |   | |_/ /    | |                  ║
-║ | |   _  | |     | || |      | |     | || |     .'.' _   | || |   |  _|  _   | || |   |  __'.    | |                  ║
-║ | |  | |_' |     | || |     _| |_    | || |   _/ /__/ |  | || |  _| |___/ |  | || |  _| |  \ \_  | |                  ║
-║ | |  `.___.'     | || |    |_____|   | || |  |________|  | || | |_________|  | || | |____||____| | |                  ║
-║ | |              | || |              | || |              | || |              | || |              | |                  ║
-║ | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |                  ║
-║  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'                   ║
-║                                                                                                                       ║
-║                                                                                                                       ║
-║                                                       ║
-║                                                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-```
-
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░ ABOUT / TERMINAL ░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ cat /home/jizek/about.txt                                │
-│                                                              │
-│   > name        :  Jizek                                     │
-│   > role        :  Digital-Forensic                          │
-│   > interests   :  OSINT, Automation, Exploitation           │
-│   > os          :  linux                                     │
-│   > status      :  [ root@study    ]~# _                     │  
-│                                                              │
-│                                                              │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-```python
-class Jizek:
-    role       = ["Security Researcher", "Python Dev", "Automation Engineer"]
-    languages  = ["Python", "Bash", "PowerShell", "JavaScript"]
-    interests  = ["OSINT", "Automation", "Exploitation", "Lead Gen"]
-    os         = "Kali Linux + Windows 11"
-
-    def current_mission(self) -> str:
-        return "Building tools that make the impossible → possible."
-
-# [+] Connecting to target...
-# [+] Access granted. Welcome back.
-```
-
-<br>
+- 🔭 Currently working on: **Sentinel ASM** (ASM / Security Scanning Platform)
+- 🌱 Learning: Cloud security, PostgreSQL, distributed scanning architectures
+- 💬 Ask me about: Python automation, OSINT techniques, web security testing
+- 📫 Reach me: [Telegram](https://t.me/Jizekk) · [Email](mailto:jizek@protonmail.com)
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░░░░░░░░░░ -->
+### 🛠️ Tech Stack
 
-## 🛠️ TECH ARSENAL
-
-**⚡ Languages**
+**Languages**
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-<br>
-
-**🛡️ Cyber Security**
+**Security & Testing**
 
 <div>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSINT-00ff88?style=for-the-badge&logo=searxng&logoColor=black" />
 </div>
 
-<br>
-
-**🔧 Dev & Automation Tools**
+**Dev & Automation**
 
 <div>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
-<br>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 📊 BATTLE STATS
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=radical&bg_color=0d1117&border_color=7b2ff7&icon_color=00f5ff&title_color=00f5ff&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jizek&theme=radical&background=0d1117&border=7b2ff7&ring=00f5ff&fire=ff0088&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Jizek&theme=tokyonight&background=1a1b27&border=0e75b6&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
 
 </div>
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=radical&bg_color=0d1117&border_color=7b2ff7&title_color=00f5ff&text_color=ffffff&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
 
 </div>
-
-<br>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 📈 ACTIVITY MATRIX
+### 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jizek&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff0088&area=true&area_color=7b2ff720&hide_border=false&border_color=7b2ff7&custom_title=Jizek%27s%20Contribution%20Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jizek&bg_color=1a1b27&color=00b4d8&line=0e75b6&point=c9d1d9&area=true&area_color=0e75b620&hide_border=false&border_color=0e75b6&custom_title=Contribution%20Graph" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jizek/Jizek/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ 🐍 SNAKE ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🐍 CONTRIBUTION SNAKE
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jizek/Jizek/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" />
 </div>
-
-<br>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=5&margin-h=5" />
-</div>
-
-<br>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🌐 CONNECT
+### 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jizek)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jizek@protonmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jizekk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jizek)
+[![Email](https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jizek@protonmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jizekk)
 
 </div>
 
-<br>
-
---- 
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ GOODBYE FOOTER -->
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/8d/58/a9/8d58a9d0b4b447dadcff60c11bbeef7c.jpg" width="100%" height="250" style="object-fit: cover;" alt="goodbye, friend." />
+<sub>Building tools that matter.</sub>
 </div>
