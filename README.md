@@ -59,7 +59,7 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jizek&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&icon_color=00b4d8&title_color=00b4d8&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=Jizek&theme=tokyonight&background=1a1b27&border=0e75b6&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
 
@@ -67,11 +67,9 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jizek&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=0e75b6&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
 
 </div>
-
-
 
 ---
 
@@ -92,7 +90,7 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 ### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jizek&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=5&margin-h=5" />
 </div>
 
 ---
