@@ -71,7 +71,7 @@ Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** —
 
 </div>
 
-> 💡 Not: Yukarıdaki istatistik kartları GitHub'ın kendi image-cache mekanizması yüzünden bazen ilk yüklemede boş görünebilir — sayfayı yenilemek (Ctrl+Shift+R / hard refresh) genelde çözer.
+
 
 ---
 
