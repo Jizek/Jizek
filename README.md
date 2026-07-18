@@ -67,7 +67,7 @@
 │                                                              │
 │   $ cat /home/jizek/about.txt                                │
 │                                                              │
-│   > name        :  Yusuf                                     │
+│   > name        :  Jizek                                     │
 │   > role        :  Digital-Forensic                          │
 │   > interests   :  OSINT, Automation, Exploitation           │
 │   > os          :  linux                                     │
