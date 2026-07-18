@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm **Yusuf**, a security-focused developer working on **OSINT, automation, and attack surface management tooling.**  
+I'm **Jizek**, a security-focused developer working on **OSINT, automation, and attack surface management tooling.**  
 Currently building **[Sentinel ASM](https://github.com/Jizek/Sentinel-ASM)** — a production-grade Attack Surface Management platform.
 
 - 🔭 Currently working on: **Sentinel ASM** (ASM / Security Scanning Platform)
